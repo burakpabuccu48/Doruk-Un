@@ -1,0 +1,13 @@
+/* Header And Nav Bar  */
+a{
+    color: black;
+    font-size: small;
+    font-family: 'Arial';
+    font-weight: bold;
+    text-decoration: none;
+}
+
+iframe{
+    width: 800px;
+    height: 400px;
+}
