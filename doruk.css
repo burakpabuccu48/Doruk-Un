@@ -5,12 +5,21 @@
 }
 
 /* Header And Nav Bar  */
+#header{
+    margin: 0px 0px 0px 25px;
+}
+
+.nav{
+    text-align: center;
+}
+
 a{
     color: black;
     font-size: small;
     font-family: 'Arial';
     font-weight: bold;
-    text-decoration: none;
+    margin-left: 10px;
+    margin-right: 20px;
 }
 
 iframe{
@@ -21,3 +30,4 @@ iframe{
 li{
     display: inline;
 }
+
