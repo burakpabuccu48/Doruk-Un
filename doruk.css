@@ -11,3 +11,7 @@ iframe{
     width: 800px;
     height: 400px;
 }
+
+li{
+    display: inline;
+}
