@@ -7,10 +7,11 @@
 /* Header And Nav Bar  */
 #header{
     margin: 0px 0px 0px 25px;
+    border: solid;
 }
 
 .nav{
-    text-align: center;
+    margin: 20px 300px;
 }
 
 a{
