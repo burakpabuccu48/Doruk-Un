@@ -8,10 +8,16 @@
 #header{
     margin: 0px 0px 0px 25px;
     border: solid;
+    width: 18%;
+    height: 110px;
 }
 
 .nav{
     margin: 20px 300px;
+    border: solid;
+    width: 80%;
+    height: 110px;
+    text-align: center;
 }
 
 a{
@@ -21,6 +27,7 @@ a{
     font-weight: bold;
     margin-left: 10px;
     margin-right: 20px;
+    text-decoration: none;
 }
 
 iframe{
